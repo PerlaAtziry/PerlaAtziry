@@ -1,10 +1,5 @@
 Hola, mi nombre es Perla.
-
-Tengo 22 años de edad y soy originaria de Ixtapa Zihuatanejo, Guerrero.
-
-Me gusta mucho el grupo K-pop de chicas llamado Blackpink.
-
-Cuento con un gran gusto por el frontend, por favor contráteme. 🥺
+Tengo 23 años y un gran gusto por el Frontend. 
 
 <!---
 PerlaAtziry/PerlaAtziry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
